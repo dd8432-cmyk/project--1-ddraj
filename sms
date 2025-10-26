@@ -1,0 +1,33 @@
+Java Student Management System
+The main objective of this project is to develop a Student Management System that utilizes Java, Java Swing, and SQLite. The system will allow you to store and retrieve student information such as IDs, contacts, and addresses.
+
+By following this project, you will gain a basic understanding of how to create a GUI using Java Swing, connect to an SQLite database, and implement the functionality for storing and retrieving data.e.
+
+Prerequisites for Student Management System using Java
+Basic knowledge of Java programming
+Familiarity with Java Swing for creating GUI applications
+Knowledge of databases and SQL queries.
+Understanding of JAR files and how they are used in Java projects.
+Understanding of database management and SQLite database.
+Any Java IDE (Eclipse recommended)
+It is recommended to use the WindowBuilder plugin in Eclipse to make GUI development easier. The WindowBuilder allows you to drag-and-drop GUI components and generates the code automatically, making it easier to create and design Java graphical user interfaces.
+
+Download Java Student Management System Project
+Please download the source code of Java Student Management System project from the following link: Java Student Management System Project Code
+
+Steps to Create Student Management System using Java
+Following are the steps for developing the Java Student Management System project:
+
+Step 1: Setting Up the Project and Classes
+Open Eclipse and navigate to “File” > “New” > “Java Project”.
+Give your project a name, for example, “Student Management System”.
+Right-click on the project and select “New” > “Class”.
+Give a name to the first class, such as “StudentManagement”.
+Repeat steps 3 and 4 to create another class, “Database”.
+Step 2: Incorporating SQLite into the Project
+Go to the Project Explorer in Eclipse.
+Select the project name by right-clicking on it and choose “Properties”.
+In the Properties window, navigate to “Java Build Path” and then click the “Libraries” tab.
+Hit the “Add External JARs” button, and locate the SQLite JAR file.
+Select the JAR file and press “Open”.
+Click “OK” to close the Properties window.
